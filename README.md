@@ -3,6 +3,8 @@
 Este projeto é um **Formulário de Contato** simples que permite alternar entre os modos **Claro (Light)** e **Escuro (Dark)**.  
 Foi desenvolvido utilizando **HTML**, **CSS** e **JavaScript** puro, sem bibliotecas externas.
 
+---
+
 ## 🚀 Funcionalidades
 
 - Formulário com campos básicos:
@@ -14,6 +16,8 @@ Foi desenvolvido utilizando **HTML**, **CSS** e **JavaScript** puro, sem bibliot
 - Responsividade: compatível com telas de diferentes tamanhos.
 - Alteração dinâmica do tema sem recarregar a página.
 
+---
+
 ## 📁 Estrutura de Arquivos
 
 ```
@@ -23,11 +27,15 @@ formulario-dark-light/
 └── script.js # Lógica para alternar os temas
 ```
 
+---
+
 ## 🛠️ Tecnologias Utilizadas
 
 - HTML5 – Estrutura dos elementos do formulário.
 - CSS3 – Estilização para os modos claro e escuro.
 - JavaScript – Controle da mudança dinâmica de tema.
+
+---
 
 ## 🎨 Como funciona o modo Dark/Light
 
@@ -54,36 +62,45 @@ mode.addEventListener('click', () => {
 });
 ```
 
+---
+
 ## 🎨 Paleta de Cores Utilizada
 
-```
-:root {
-    --color-light-50: #f8fafc;
+### 🌞 Modo Light
+| Elemento              | Cor            | Código Hexadecimal              |
+|-----------------------|----------------|---------------------------------|
+| Fundo Principal       | Branco         | `#7c3aed, #a855f7, #bf47eb` |
+| Texto Principal       | cinza          | `#797984`                       |
+| Icones                | Preto          | `#000`                          |
+| Light                 | Branca         | `#f8fafc`                       |
 
-    --color-dark-50: #797984;
-    --color-dark-100: #312d37;
-    --color-dark-900: #000;
-
-    --color-purple-50: #7c3aed;
-    --color-purple-100: #a855f7;
-    --color-purple-200: #bf47eb;
-
-    --color-gradient: linear-gradient(90deg, var(--color-purple-50), var(--color-purple-100), var(--color-purple-200));
-}
-```
+### 🌙 Modo Dark
+| Elemento              | Cor              | Código Hexadecimal |
+|-----------------------|------------------|--------------------------------|
+| Fundo Principal       | Preto Escuro     | `#7c3aed, #a855f7, #bf47eb`|
+| Texto Principal       | Cinza            | `#797984`                      |
+| Icones                | Branco           | `#f8fafc`                      |
+| Dark                  | Preto            | `#000`                         |
 
 > Essas cores garantem contraste e boa legibilidade em ambos os modos.
+
+---
+
 ## 📸 Captura de Tela
 
 - Modo Light:
-![alt text](image.png)
+![alt text](assets/img/image.png)
 
 - Modo Dark:
-![alt text](image-1.png)
+![alt text](assets/img/image-1.png)
+
+---
 
 ## 📸 Prévia do projeto
 
 (https://neginterprises.github.io/Formul-rio-com-modo-dark-e-light/)
+
+---
 
 ## 👨‍💻 Autores
 
