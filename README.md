@@ -56,21 +56,17 @@ mode.addEventListener('click', () => {
 
 ## 🎨 Paleta de Cores Utilizada
 
-```
-:root {
-    --color-light-50: #f8fafc;
+### 🌞 Modo Light
+- **Fundo:** `--color-light-50: #f8fafc;` (branco)
+- **Texto:** `--color-dark-50: #797984;` (preto)
+- **Bordas dos inputs:** `--color-dark-50: #797984;` (cinza claro)
+- **Botão:** `#007BFF` (azul padrão)
 
-    --color-dark-50: #797984;
-    --color-dark-100: #312d37;
-    --color-dark-900: #000;
-
-    --color-purple-50: #7c3aed;
-    --color-purple-100: #a855f7;
-    --color-purple-200: #bf47eb;
-
-    --color-gradient: linear-gradient(90deg, var(--color-purple-50), var(--color-purple-100), var(--color-purple-200));
-}
-```
+### 🌙 Modo Dark
+- **Fundo:** `#121212` (preto bem escuro)
+- **Texto:** `#ffffff` (branco)
+- **Bordas dos inputs:** `#333333` (cinza escuro)
+- **Botão:** `#1E90FF` (azul claro)
 
 > Essas cores garantem contraste e boa legibilidade em ambos os modos.
 
