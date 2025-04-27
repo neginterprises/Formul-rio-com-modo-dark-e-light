@@ -84,3 +84,8 @@ mode.addEventListener('click', () => {
 ## 📸 Prévia do projeto
 
 (https://neginterprises.github.io/Formul-rio-com-modo-dark-e-light/)
+
+## 👨‍💻 Autores
+
+- Natiele Nogueira de Paula
+- Gabriel Vanço Gandolfi
