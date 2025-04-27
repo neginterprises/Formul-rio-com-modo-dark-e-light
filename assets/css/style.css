@@ -22,7 +22,7 @@
 }
 
 #container {
-    height: 100vh;
+    height: 87vh;
     width: 100%;
     background: var(--color-gradient);
     display: flex;
