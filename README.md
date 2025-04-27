@@ -56,6 +56,7 @@ mode.addEventListener('click', () => {
 
 ## 🎨 Paleta de Cores Utilizada
 
+```
 :root {
     --color-light-50: #f8fafc;
 
@@ -69,9 +70,9 @@ mode.addEventListener('click', () => {
 
     --color-gradient: linear-gradient(90deg, var(--color-purple-50), var(--color-purple-100), var(--color-purple-200));
 }
+```
 
 > Essas cores garantem contraste e boa legibilidade em ambos os modos.
-
 ## 📸 Captura de Tela
 
 - Modo Light:
