@@ -69,7 +69,7 @@ mode.addEventListener('click', () => {
 ### 🌞 Modo Light
 | Elemento              | Cor            | Código Hexadecimal              |
 |-----------------------|----------------|---------------------------------|
-| Fundo Principal       | Branco         | `#7c3aed, #a855f7, #bf47eb` |
+| Fundo Principal       | Roxos          | `#7c3aed, #a855f7, #bf47eb` |
 | Texto Principal       | cinza          | `#797984`                       |
 | Icones                | Preto          | `#000`                          |
 | Light                 | Branca         | `#f8fafc`                       |
@@ -77,7 +77,7 @@ mode.addEventListener('click', () => {
 ### 🌙 Modo Dark
 | Elemento              | Cor              | Código Hexadecimal |
 |-----------------------|------------------|--------------------------------|
-| Fundo Principal       | Preto Escuro     | `#7c3aed, #a855f7, #bf47eb`|
+| Fundo Principal       | Roxos            | `#7c3aed, #a855f7, #bf47eb`|
 | Texto Principal       | Cinza            | `#797984`                      |
 | Icones                | Branco           | `#f8fafc`                      |
 | Dark                  | Preto            | `#000`                         |
