@@ -154,6 +154,28 @@
     color: var(--color-light-50);
 }
 
+footer {
+    background-color: var(--color-light-50); 
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 8% 24px 8%;
+    align-items: center;
+    color: var(--color-dark-900);;
+    font-weight: 500;
+}
+
+.footer-logo {
+    width: 100px;
+    height: 100px;
+}
+
+@media screen and (max-width: 600px) {
+    .footer, .footer-logo {
+        flex-direction: column;
+        gap: 20px;
+    }
+}
+
 @keyframes dark-to-light {
     0% {
         background-color: var(--color-dark-100);
