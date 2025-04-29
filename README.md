@@ -102,7 +102,9 @@ mode.addEventListener('click', () => {
 
 ---
 
-## 👨‍💻 Autores
-
-- Natiele Nogueira de Paula
-- Gabriel Vanço Gandolfi
+Desenvolvido com 💻 por N&G Enterprises
+---
+Autores: 
+Gabriel Vanço Gandolfi
+<br>
+Natiele Nogueira de Paula
